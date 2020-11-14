@@ -1,0 +1,24 @@
+{
+  "name": "discord-bot-template",
+  "version": "1.0.0",
+  "description": "A discord bot template.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarthaktexas/discord-bot-template.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "template"
+  ],
+  "author": "Sarthak Mohanty <sarthaktexas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sarthaktexas/discord-bot-template/issues"
+  },
+  "homepage": "https://github.com/sarthaktexas/discord-bot-template#readme"
+}
